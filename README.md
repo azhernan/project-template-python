@@ -79,7 +79,7 @@ code .
 ## ✍️ Autor
 
 Plantilla creada por **Hernán Velázquez**  
-[GitHub](https://github.com/hernanvelazquez)
+[GitHub](https://github.com/azhernan)
 
 ---
 
